@@ -1,0 +1,41 @@
+[33mcommit 8db747c8b13bb328e45f5f57c83384b97f2ab529[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: newloupslife <uchkin14@yandex.ru>
+Date:   Wed Nov 28 23:12:57 2018 +0200
+
+    Added index.html
+
+[33mcommit 96a54000dcfef5fe1f12962f211ef77615c0f893[m
+Author: newloupslife <uchkin14@yandex.ru>
+Date:   Wed Nov 28 23:11:07 2018 +0200
+
+    Moved hello.html to lib
+
+[33mcommit 5ee2df30ad306e750bccbfe4564a1bf451b86f24[m
+Author: newloupslife <uchkin14@yandex.ru>
+Date:   Wed Nov 28 23:06:33 2018 +0200
+
+    Add an author/email comment
+
+[33mcommit 1d3a4fd4fa93d74fffe0a094c20888e86af71741[m[33m ([m[1;33mtag: v1[m[33m)[m
+Author: newloupslife <uchkin14@yandex.ru>
+Date:   Wed Nov 28 22:37:43 2018 +0200
+
+    Added HTML header
+
+[33mcommit 854bf127bf6f9fd3b4eb69ee522fb6d0f9d461c1[m[33m ([m[1;33mtag: v1-beta[m[33m)[m
+Author: newloupslife <uchkin14@yandex.ru>
+Date:   Wed Nov 28 22:36:26 2018 +0200
+
+    Added standart HTML page tags
+
+[33mcommit 64152df7a1eb6b5238c54018f2f160463e3a19fa[m
+Author: newloupslife <uchkin14@yandex.ru>
+Date:   Wed Nov 28 22:32:45 2018 +0200
+
+    Added h1 tag
+
+[33mcommit 830c1db4a20248469031972e8407902c8efa5b08[m
+Author: newloupslife <uchkin14@yandex.ru>
+Date:   Wed Nov 28 22:26:47 2018 +0200
+
+    First Commit
